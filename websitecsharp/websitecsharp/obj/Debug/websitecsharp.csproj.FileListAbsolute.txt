@@ -9,3 +9,5 @@ C:\Users\Farshid\documents\visual studio 2012\Projects\websitecsharp\websitecsha
 C:\Users\Farshid\documents\visual studio 2012\Projects\websitecsharp\websitecsharp\obj\Debug\websitecsharp.csproj.GenerateResource.Cache
 C:\Users\Farshid\documents\visual studio 2012\Projects\websitecsharp\websitecsharp\obj\Debug\websitecsharp.exe
 C:\Users\Farshid\documents\visual studio 2012\Projects\websitecsharp\websitecsharp\obj\Debug\websitecsharp.pdb
+C:\Users\Farshid\documents\visual studio 2012\Projects\websitecsharp\websitecsharp\bin\Debug\websitecsharp.pdb
+C:\Users\Farshid\documents\visual studio 2012\Projects\websitecsharp\websitecsharp\obj\Debug\websitecsharp.csprojResolveAssemblyReference.cache
