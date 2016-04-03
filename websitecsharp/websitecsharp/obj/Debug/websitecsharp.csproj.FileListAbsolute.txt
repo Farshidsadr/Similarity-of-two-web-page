@@ -1,0 +1,11 @@
+C:\Users\Farshid\documents\visual studio 2012\Projects\websitecsharp\websitecsharp\bin\Debug\websitecsharp.exe
+C:\Users\Farshid\documents\visual studio 2012\Projects\websitecsharp\websitecsharp\bin\Debug\websitecsharp.exe.config
+C:\Users\Farshid\documents\visual studio 2012\Projects\websitecsharp\websitecsharp\obj\Debug\MainWindow.baml
+C:\Users\Farshid\documents\visual studio 2012\Projects\websitecsharp\websitecsharp\obj\Debug\MainWindow.g.cs
+C:\Users\Farshid\documents\visual studio 2012\Projects\websitecsharp\websitecsharp\obj\Debug\App.g.cs
+C:\Users\Farshid\documents\visual studio 2012\Projects\websitecsharp\websitecsharp\obj\Debug\websitecsharp_MarkupCompile.cache
+C:\Users\Farshid\documents\visual studio 2012\Projects\websitecsharp\websitecsharp\obj\Debug\websitecsharp.g.resources
+C:\Users\Farshid\documents\visual studio 2012\Projects\websitecsharp\websitecsharp\obj\Debug\websitecsharp.Properties.Resources.resources
+C:\Users\Farshid\documents\visual studio 2012\Projects\websitecsharp\websitecsharp\obj\Debug\websitecsharp.csproj.GenerateResource.Cache
+C:\Users\Farshid\documents\visual studio 2012\Projects\websitecsharp\websitecsharp\obj\Debug\websitecsharp.exe
+C:\Users\Farshid\documents\visual studio 2012\Projects\websitecsharp\websitecsharp\obj\Debug\websitecsharp.pdb
